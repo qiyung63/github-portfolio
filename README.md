@@ -15,16 +15,15 @@ Motivated university student seeking a data analytics internship. Aiming to gain
 # 💡 Projects
 
 ## 1. Teenage Mother Child Mortality Prediction
-
+[View Full Report (PDF)]
 ### 🎓 Course:
 Social and Web Analytics
 
 ### 📝 Description:
-Developed a logistic regression model to predict child mortality among teenage mothers.  
-Applied data cleaning, class balancing, and cross-validation techniques to improve model performance and ensure fair evaluation across age groups.
+This project focuses on predicting child mortality among teenage mothers. Our team aimed to identify the most effective predictive model using various machine learning techniques. By exploring key socioeconomic and health-related factors, this study provides insights that can help policymakers and healthcare providers design better interventions for high-risk groups such as teen mothers.
 
 ### 🧠 Skills:
-Python - Data cleaning, Model Evaluation (Precision, Recall, F1-score)
+Python - Data cleaning, Logistic Regression Model, Cross-validation techniques, Model Evaluation (Precision, Recall, F1-score)
 
 <br>
 
@@ -33,13 +32,17 @@ Python - Data cleaning, Model Evaluation (Precision, Recall, F1-score)
 ### 🎓 Course: 
 Database Fundamentals
 
-### 📝 Description:
-
+### 📝 Description: 
+This project is to design a database for a business. Our team focuses on designing a database for an online lodging marketplace. The database was developed to efficiently manage key operations such as user registration, properties, bookings, payments, facilites and reviews. It includes an Entity Relationship Diagram (ERD), a relational database model with defined keys, constraints to ensure data integrity, and indexes to improve performance. SQL implementation and queries were also developed to generate business insights.
 ### 🧠 Skills:
+ERD Diagram
+SQL (Oracle Apex) - SQL queries
 
 <br>
 
 ## 3.  Proposed Smart Waitlist System for iZone
+
+[View Full Report (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Sunway's%20Smart%20iZone%20Waitlist%20System.pdf)
 
 ### 🎓 Course: 
 Information Systems Analysis & Design
@@ -63,7 +66,7 @@ Features such as were proposed to
 <br>
 
 ## 5. Sleep Health and Lifestyle
-Link of Document:
+
 [View Full Report (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Sleep%20Health%20and%20Lifestyle%20Dataset%20Analysis.pdf)
 
 ### 🎓 Course: 
