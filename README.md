@@ -34,4 +34,4 @@ Welcome to my portfolio! Here you'll find details about my coursework, technical
 
 ## 📫 Contact
 - **Email:** siowqiyung@gmail.com
-- **LinkedIn:** [linkedin.com/in/siowqiyung](https://linkedin.com/in/sqy63)
+- **LinkedIn:** [linkedin.com/in/sqy63](https://linkedin.com/in/sqy63)
