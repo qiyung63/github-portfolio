@@ -1,18 +1,33 @@
-# github-portfolio
+
 # 👋 Hi, I'm Siow Qi Yung
 
-🎓 **Data Analytics Student | Aspiring Data Scientist**
+🎓 **3rd year student - Bachelor of Information Systems (Hons) Data Analytics**
 
-Welcome to my portfolio! Here you'll find details about my coursework, technical skills, and projects that demonstrate my data and analytical capabilities.
+Welcome to my portfolio! Here you'll find details about my coursework, projects, achievement and activities.
+
+---
+## Personal Summary
+Motivated university student seeking a data analytics internship. Aiming to gain practical experience by applying academic knowledge to real-world applications and open to learn new tools while contributing positively to the organization.
 
 ---
 
-## 🧠 Courses
-- **Data Analysis & Visualization** – Learned Python (pandas, matplotlib), Excel dashboards, and SQL queries.
-- **Machine Learning Fundamentals** – Built predictive models (logistic regression, decision trees).
-- **Database Systems** – Designed relational schemas, wrote advanced SQL joins.
-- **Capstone Project** – *Influence-based Strategy on Graph-based Data for Machine Learning* – analyzed data selection and fairness.
-
+## Courses
+- ### Database Fundamentals
+- **Description:** Learned SQL queries, designed relational schemas, wrote advanced SQL joins.
+- **Project:**
+- ### Data Mining and Knowledge Discovery
+- **Description:** Data Cleaning.
+- **Project:**
+- ### Programming Principals
+- **Description:** Designed relational schemas, wrote advanced SQL joins.
+- **Project:** 
+- ### Statistics for Data Analytics
+- **Description:** Teenage Mother Child Mortality Prediction.
+- ### Social and Web Analytics
+- **Description:**
+- **Project:** Teenage Mother Child Mortality Prediction
+- ### Information Systems Analysis & Design
+- ### IS Management and Strategy
 ---
 
 ## 💻 Projects
