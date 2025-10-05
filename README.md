@@ -28,7 +28,7 @@ Python - Data cleaning, Logistic Regression Model, Cross-validation techniques, 
 <br>
 
 ## 2. Database Design for Online Lodging Marketplace
-
+[View Full Report (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/SEG1201%20Template%20-%20Final%20Assessment.pdf)
 ### 🎓 Course: 
 Database Fundamentals
 
@@ -36,7 +36,7 @@ Database Fundamentals
 This project is to design a database for a business. Our team focuses on designing a database for an online lodging marketplace. The database was developed to efficiently manage key operations such as user registration, properties, bookings, payments, facilites and reviews. It includes an Entity Relationship Diagram (ERD), a relational database model with defined keys, constraints to ensure data integrity, and indexes to improve performance. SQL implementation and queries were also developed to generate business insights.
 ### 🧠 Skills:
 ERD Diagram
-SQL (Oracle Apex) - SQL queries
+SQL (Oracle Apex)
 
 <br>
 
@@ -49,7 +49,9 @@ Information Systems Analysis & Design
 
 ### 📝 Description:
 
+
 ### 🧠 Skills:
+
 
 <br>
 
