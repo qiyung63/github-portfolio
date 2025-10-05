@@ -15,7 +15,7 @@ Motivated university student seeking a data analytics internship. Aiming to gain
 # 💡 Projects
 
 ## 1. Teenage Mother Child Mortality Prediction
-[View Full Report (PDF)]
+
 ### 🎓 Course:
 Social and Web Analytics
 
@@ -48,26 +48,14 @@ SQL (Oracle Apex)
 Information Systems Analysis & Design
 
 ### 📝 Description:
-
+After conducting a survey to understand students’ challenges during subject registration, our team proposed a Waitlist System for iZone, Sunway University’s enrolment platform, to enhance convenience and improve the overall student experience. The system automatically manages waitlisted subjects by tracking seat availability in real time and notifying students when a slot becomes available.
 
 ### 🧠 Skills:
-
+Usecase diagram, class diagram, Figma prototype (UI/UX design)
 
 <br>
 
-## 4.  Proposed New Features for ZUS Coffee App
-
-### 🎓 Course: 
-IS Management and Strategy
-
-### 📝 Description:
-Features such as were proposed to
-
-### 🧠 Skills:
-
-<br>
-
-## 5. Sleep Health and Lifestyle
+## 4. Sleep Health and Lifestyle Analysis
 
 [View Full Report (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Sleep%20Health%20and%20Lifestyle%20Dataset%20Analysis.pdf)
 
@@ -79,8 +67,6 @@ This project investigates how lifestyle and health factors relate to sleep patte
 
 ### 🧠 Skills:
 Descriptive Analysis, One – Sample Hypothesis, Two – Sample Hypothesis, One-Way ANOVA, Multiple Linear Regression
-
-<br>
 
 ---
 
