@@ -57,19 +57,22 @@ Information Systems Analysis & Design
 IS Management and Strategy
 
 ### 📝 Description:
+Features such as were proposed to
 
 ### 🧠 Skills:
 
 <br>
 
-## 5.   Investigate the Relationship between Lifestyle Factors and Sleep Patterns
+## 5. Sleep Health and Lifestyle
 
 ### 🎓 Course: 
 Statistics for Data Analytics
 
 ### 📝 Description:
+This project investigates how lifestyle and health factors relate to sleep patterns. It evaluates whether average sleep duration meets recommended standards, examines gender differences in sleep quality, assesses the effect of BMI on sleep duration, and builds a predictive model to identify key determinants of sleep duration.
 
 ### 🧠 Skills:
+Descriptive Analysis, One – Sample Hypothesis, Two – Sample Hypothesis, One-Way ANOVA, Multiple Linear Regression
 
 <br>
 
