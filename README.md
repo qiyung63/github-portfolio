@@ -6,47 +6,28 @@
 Welcome to my portfolio! Here you'll find details about my coursework, projects, achievement and activities.
 
 ---
-## Personal Summary
+## 💬 About Me
 Motivated university student seeking a data analytics internship. Aiming to gain practical experience by applying academic knowledge to real-world applications and open to learn new tools while contributing positively to the organization.
 
 ---
 
-## Courses
-- ### Database Fundamentals
-- **Description:** Learned SQL queries, designed relational schemas, wrote advanced SQL joins.
-- **Project:**
-- ### Data Mining and Knowledge Discovery
-- **Description:** Data Cleaning.
-- **Project:**
-- ### Programming Principals
-- **Description:** Designed relational schemas, wrote advanced SQL joins.
-- **Project:** 
-- ### Statistics for Data Analytics
-- **Description:** Teenage Mother Child Mortality Prediction.
-- ### Social and Web Analytics
-- **Description:**
-- **Project:** Teenage Mother Child Mortality Prediction
-- ### Information Systems Analysis & Design
-- ### IS Management and Strategy
----
+# 💡 Projects
 
-## 💻 Projects
-### 🩺 Teenage Mother Child Mortality Prediction
-- **Description:** Built a logistic regression model to predict child mortality risk.
-- **Tech Stack:** Python, scikit-learn, pandas
-- **Key Skills:** Data cleaning, feature selection, model evaluation (precision, recall, F1-score)
-- [View on GitHub](./teenage-mother-mortality)
+## 1. Teenage Mother Child Mortality Prediction
 
+### 🎓 Course:
+Social and Web Analytics
 
----
+### 📝 Description:
+Developed a logistic regression model to predict child mortality among teenage mothers.  
+Applied data cleaning, class balancing, and cross-validation techniques to improve model performance and ensure fair evaluation across age groups.
 
-## ⚙️ Technical Skills
-- **Languages:** Python, SQL, R
-- **Tools:** Excel, Tableau, Power BI, Jupyter Notebook
-- **Libraries:** pandas, numpy, matplotlib, scikit-learn
+### 🧠 Skills:
+Python · pandas · scikit-learn · Data Cleaning · Model Evaluation (Precision, Recall, F1-score)
 
 ---
 
 ## 📫 Contact
-- **Email:** siowqiyung@gmail.com
+- **Phone Number:** +60 11-2611 6763
+- **Email:** sqiyung63@gmail.com
 - **LinkedIn:** [linkedin.com/in/sqy63](https://linkedin.com/in/sqy63)
