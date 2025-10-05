@@ -10,7 +10,6 @@ Welcome to my portfolio! Here you'll find details about my coursework, projects,
 ## 💬 About Me
 Motivated university student seeking a data analytics internship. Aiming to gain practical experience by applying academic knowledge to real-world applications and open to learn new tools while contributing positively to the organization.
 
-
 ---
 
 # 💡 Projects
