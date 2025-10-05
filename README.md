@@ -65,7 +65,7 @@ Statistics for Data Analytics
 This project investigates how lifestyle and health factors relate to sleep patterns. It evaluates whether average sleep duration meets recommended standards, examines gender differences in sleep quality, assesses the effect of BMI on sleep duration, and builds a predictive model to identify key determinants of sleep duration.
 
 #### 🧠 Skills:
-Descriptive Analysis, One – Sample Hypothesis, Two – Sample Hypothesis, One-Way ANOVA, Multiple Linear Regression
+Descriptive Analysis, One – Sample Hypothesis, Two – Sample Hypothesis, Multiple Linear Regression
 
 ---
 
