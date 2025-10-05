@@ -64,7 +64,8 @@ Features such as were proposed to
 <br>
 
 ## 5. Sleep Health and Lifestyle
-
+Link of Document:
+https://github.com/qiyung63/github-portfolio/blob/main/Sleep%20Health%20and%20Lifestyle%20Dataset%20Analysis.pdf
 ### 🎓 Course: 
 Statistics for Data Analytics
 
