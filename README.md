@@ -14,7 +14,7 @@ Motivated university student seeking a data analytics internship. Aiming to gain
 
 ## 💡 Projects
 
-### 1. Teenage Mother Child Mortality Prediction
+### 1. Predictive Modelling and Model Evaluation of Child Mortality Risk Among Teen Mothers in Western Kenyan
 
 #### 🎓 Course:
 Social and Web Analytics
