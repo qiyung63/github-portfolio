@@ -15,7 +15,7 @@ Motivated university student seeking a data analytics internship. Aiming to gain
 ## 💡 Projects
 
 ### 1. Predictive Modelling and Model Evaluation of Child Mortality Risk Among Teen Mothers in Western Kenyan
-
+[View Full Report (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Predictive%20Modelling%20and%20Model%20Evaluation%20of%20Child%20Mortality%20Risk%20Among%20Teen%20Mothers%20in%20Western%20Kenya.pdf)
 #### 🎓 Course:
 Social and Web Analytics
 
