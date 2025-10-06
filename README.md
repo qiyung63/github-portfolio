@@ -35,7 +35,7 @@ Database Fundamentals
 #### 📝 Description: 
 This project is to design a database for a business. Our team focuses on designing a database for an online lodging marketplace. The database was developed to efficiently manage key operations such as user registration, properties, bookings, payments, facilites and reviews. It includes an Entity Relationship Diagram (ERD), a relational database model with defined keys, constraints to ensure data integrity, and indexes to improve performance. SQL implementation and queries were also developed to generate business insights.
 #### 🧠 Skills:
-ERD Diagram, SQL (Oracle Apex)
+ERD Diagram, SQL
 
 <br>
 
