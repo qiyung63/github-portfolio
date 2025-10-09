@@ -3,7 +3,7 @@
 
 🎓 **3rd year student - Bachelor of Information Systems (Hons) Data Analytics**
 
-Welcome to my portfolio! Here you'll find details about my coursework, projects, achievement and activities.
+Welcome to my portfolio! Here you'll find details about my coursework/projects.
 
 <br>
 
