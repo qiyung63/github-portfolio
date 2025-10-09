@@ -69,6 +69,8 @@ Descriptive Analysis, One – Sample Hypothesis, Two – Sample Hypothesis, Mult
 
 ---
 
+## Resume 
+[View Full Report (PDF)]
 
 ## 📞 Contact
 - **Phone Number:** +60 11-2611 6763
