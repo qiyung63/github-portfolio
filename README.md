@@ -69,9 +69,9 @@ Descriptive Analysis, One – Sample Hypothesis, Two – Sample Hypothesis, Mult
 
 ---
 
-## Resume 
-[View Full Report (PDF)]
-
+## 📄 Resume 
+[View Full Report (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Resume.pdf)
+<br>
 ## 📞 Contact
 - **Phone Number:** +60 11-2611 6763
 - **Email:** sqiyung63@gmail.com
