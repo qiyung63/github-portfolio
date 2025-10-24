@@ -24,6 +24,7 @@ This project focuses on predicting child mortality among teenage mothers. Our te
 
 #### 🧠 Skills:
 Python - Data cleaning, Logistic Regression Model, Cross-validation techniques, Model Evaluation (Precision, Recall, F1-score)
+Research Skills
 
 <br>
 
@@ -50,7 +51,7 @@ Information Systems Analysis & Design
 After conducting a survey to understand students’ challenges during subject registration, our team proposed a Waitlist System for iZone, Sunway University’s enrolment platform, to enhance convenience and improve the overall student experience. The system automatically manages waitlisted subjects by tracking seat availability in real time and notifying students when a slot becomes available.
 
 #### 🧠 Skills:
-Usecase diagram, class diagram, Figma prototype (UI/UX design)
+Usecase diagram, basic Class diagram, Figma prototype (UI/UX design)
 
 <br>
 
@@ -65,12 +66,12 @@ Statistics for Data Analytics
 This project investigates how lifestyle and health factors relate to sleep patterns. It evaluates whether average sleep duration meets recommended standards, examines gender differences in sleep quality, assesses the effect of BMI on sleep duration, and builds a predictive model to identify key determinants of sleep duration.
 
 #### 🧠 Skills:
-Descriptive Analysis, One – Sample Hypothesis, Two – Sample Hypothesis, Multiple Linear Regression
+Descriptive Analysis, Hypothesis Testing, Multiple Linear Regression
 
 ---
 
 ## 📄 Resume 
-[View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Resume-Siow%20Qi%20Yung%20(Data%20analytics).pdf)
+[View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Resume_Siow%20Qi%20Yung_Data%20Analytics.pdf)
 
 <br>
 
