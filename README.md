@@ -70,7 +70,7 @@ Descriptive Analysis, One – Sample Hypothesis, Two – Sample Hypothesis, Mult
 ---
 
 ## 📄 Resume 
-[View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Resume.pdf)
+[View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Resume-Siow%20Qi%20Yung%20(Data%20analytics).pdf)
 
 <br>
 
