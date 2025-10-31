@@ -1,17 +1,27 @@
-# 👋 Hi, I'm Siow Qi Yung
+## 👋 Hi, I'm Siow Qi Yung
 
-🎓 **3rd year student - Bachelor of Information Systems (Hons) Data Analytics**
+**3rd year student - Bachelor of Information Systems (Hons) Data Analytics**
 
-Welcome to my portfolio! Here you'll find details about my coursework/projects.
+Welcome to my portfolio! Here you'll find details about my **coursework/projects**, and **achievements**.
 
 <br>
 
-## 💬 About Me
+### 💬 About Me
 Motivated university student seeking a data analytics internship. Aiming to gain practical experience by applying academic knowledge to real-world applications and open to learn new tools while contributing positively to the organization.
 
----
+### 📄 My Resume 
+[View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Resume_Siow%20Qi%20Yung_Data%20Analytics.pdf)
 
-## 💡 Projects
+
+### 📞 Contact
+- **Phone Number:** +60 11-2611 6763
+- **Email:** sqiyung63@gmail.com
+- **LinkedIn:** [linkedin.com/in/sqy63](https://linkedin.com/in/sqy63)
+
+---
+<br>
+
+## 📊 Projects
 
 ### 1. Predictive Modelling and Model Evaluation of Child Mortality Risk Among Teen Mothers in Western Kenyan
 [View Full Report (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Predictive%20Modelling%20and%20Model%20Evaluation%20of%20Child%20Mortality%20Risk%20Among%20Teen%20Mothers%20in%20Western%20Kenya.pdf)
@@ -34,6 +44,7 @@ Database Fundamentals
 
 #### 📝 Description: 
 This project is to design a database for a business. Our team focuses on designing a database for an online lodging marketplace. The database was developed to efficiently manage key operations such as user registration, properties, bookings, payments, facilites and reviews. It includes an Entity Relationship Diagram (ERD), a relational database model with defined keys, constraints to ensure data integrity, and indexes to improve performance. SQL implementation and queries were also developed to generate business insights.
+
 #### 🧠 Skills:
 ERD Diagram, SQL
 
@@ -47,10 +58,10 @@ ERD Diagram, SQL
 Information Systems Analysis & Design
 
 #### 📝 Description:
-After conducting a survey to understand students’ challenges during subject registration, our team proposed a Waitlist System for iZone, Sunway University’s enrolment platform, to enhance convenience and improve the overall student experience. The system automatically manages waitlisted subjects by tracking seat availability in real time and notifying students when a slot becomes available.
+After conducting a survey to understand students’ challenges during subject registration, our team proposed a Smart Waitlist System for iZone, Sunway University’s enrolment platform, to enhance convenience and improve the overall student experience. The system automatically manages waitlisted subjects by tracking seat availability in real time and notifying students when a slot becomes available.
 
 #### 🧠 Skills:
-Usecase diagram, basic Class diagram, Figma prototype (UI/UX design)
+Usecase diagram, Basic Class diagram, Figma prototype (UI/UX design)
 
 <br>
 
@@ -68,13 +79,34 @@ This project investigates how lifestyle and health factors relate to sleep patte
 Descriptive Analysis, Hypothesis Testing, Multiple Linear Regression
 
 ---
+<br>
 
-## 📄 Resume 
-[View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Resume_Siow%20Qi%20Yung_Data%20Analytics.pdf)
+## 🎖️ Acheivements
+
+### 1. First runner up in BIS2102 Project Pitching Competition 2025
+
+#### 🎓 Course related:
+Information Systems Analysis & Design
+
+#### 📝 Description
+Our team’s Smart Waitlist System for iZone was commended for effectively addressing student registration challenges through an automated and user-friendly solution.
+
+### Certificate:
+[View (PDF)]()
 
 <br>
 
-## 📞 Contact
-- **Phone Number:** +60 11-2611 6763
-- **Email:** sqiyung63@gmail.com
-- **LinkedIn:** [linkedin.com/in/sqy63](https://linkedin.com/in/sqy63)
+### 2. Deloitte Australia Data Analytics Job Simulation on Forage
+
+#### 📝 Description:
+Completed a Deloitte job simulation involving data analysis and forensic technology 
+Created a data dashboard using Tableau 
+Used Excel to classify data and draw business conclusions
+
+#### Credential URL:
+[View](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_690081db17a27298b4b62cb0_1761843383785_completion_certificate.pdf)
+
+---
+<br>
+
+
