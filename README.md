@@ -10,7 +10,7 @@ Welcome to my portfolio! Here you'll find details about my **coursework/projects
 Motivated university student seeking a data analytics internship. Aiming to gain practical experience by applying academic knowledge to real-world applications and open to learn new tools while contributing positively to the organization.
 
 ### 📄 My Resume 
-[View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Resume_Siow%20Qi%20Yung_Data%20Analytics.pdf)
+[View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Resume%20-%20Siow%20Qi%20Yung.pdf)
 
 
 ### 📞 Contact
