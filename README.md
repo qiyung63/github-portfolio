@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Siow Qi Yung
 
 🎓 **3rd year student - Bachelor of Information Systems (Hons) Data Analytics**
