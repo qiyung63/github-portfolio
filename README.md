@@ -99,14 +99,14 @@ Our team’s Smart Waitlist System for iZone was commended for effectively addre
 ### 2. Deloitte Australia Data Analytics Job Simulation on Forage
 
 #### 📝 Description:
-Completed a Deloitte job simulation involving data analysis and forensic technology 
-Created a data dashboard using Tableau 
-Used Excel to classify data and draw business conclusions
+- Completed a Deloitte job simulation involving data analysis and forensic technology 
+- Created a data dashboard using Tableau 
+- Used Excel to classify data and draw business conclusions
+- This self-learning online course has improved my skills in data visualization, analytical thinking, and the practical use of Excel and Tableau for real-world business problem-solving.
 
 #### Credential URL:
-[View]()
+[View](https://github.com/qiyung63/github-portfolio/blob/main/Certificate-Data%20Analytics%20Job%20Simulation.pdf)
 
----
-<br>
+
 
 
