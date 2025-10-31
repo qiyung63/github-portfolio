@@ -91,7 +91,7 @@ Information Systems Analysis & Design
 #### 📝 Description
 Our team’s Smart Waitlist System for iZone was commended for effectively addressing student registration challenges through an automated and user-friendly solution.
 
-### Certificate:
+#### Certificate:
 [View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Certificate_BIS2102.pdf)
 
 <br>
@@ -104,7 +104,7 @@ Our team’s Smart Waitlist System for iZone was commended for effectively addre
 - Used Excel to classify data and draw business conclusions
 - This self-learning online course has improved my skills in data visualization, analytical thinking, and the practical use of Excel and Tableau for real-world business problem-solving.
 
-#### Credential URL:
+#### Certificate:
 [View](https://github.com/qiyung63/github-portfolio/blob/main/Certificate-Data%20Analytics%20Job%20Simulation.pdf)
 
 
