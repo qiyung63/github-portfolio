@@ -92,7 +92,7 @@ Information Systems Analysis & Design
 Our team’s Smart Waitlist System for iZone was commended for effectively addressing student registration challenges through an automated and user-friendly solution.
 
 ### Certificate:
-[View (PDF)]()
+[View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Certificate_BIS2102.pdf)
 
 <br>
 
@@ -104,7 +104,7 @@ Created a data dashboard using Tableau
 Used Excel to classify data and draw business conclusions
 
 #### Credential URL:
-[View](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_690081db17a27298b4b62cb0_1761843383785_completion_certificate.pdf)
+[View]()
 
 ---
 <br>
