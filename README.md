@@ -118,7 +118,7 @@ Our team’s Smart Waitlist System for iZone was commended for effectively addre
 - This self-learning online course has improved my skills in data visualization, analytical thinking, and the practical use of Excel and Tableau for real-world business problem-solving.
 
 #### Certificate:
-[View](https://github.com/qiyung63/github-portfolio/blob/main/Certificate-Data%20Analytics%20Job%20Simulation.pdf)
+[View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Certificate-Data%20Analytics%20Job%20Simulation.pdf)
 
 ### 3. Excel: Managing and Analyzing Data
 
@@ -128,5 +128,5 @@ Our team’s Smart Waitlist System for iZone was commended for effectively addre
 - Learned skills in checking data quality, combining datasets, and turning raw data into useful insights for reporting and decision-making.
 
 #### Certificate:
-[View]()
+[View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Certificate_Excel%20Managing%20and%20Analyzing%20Data.pdf)
 
