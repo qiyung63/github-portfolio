@@ -120,6 +120,8 @@ Our team’s Smart Waitlist System for iZone was commended for effectively addre
 #### Certificate:
 [View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Certificate-Data%20Analytics%20Job%20Simulation.pdf)
 
+<br>
+
 ### 3. Excel: Managing and Analyzing Data
 
 #### 📝 Description:
