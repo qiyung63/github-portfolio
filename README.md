@@ -21,9 +21,20 @@ Motivated university student seeking a data analytics internship. Aiming to gain
 ---
 <br>
 
-## 📊 Projects
+## 📊 Projects/Assignments
+### 1. 
+#### 🎓 Course:
+Advanced Business Analytics
 
-### 1. Predictive Modelling and Model Evaluation of Child Mortality Risk Among Teen Mothers in Western Kenyan
+#### 📝 Description:
+This assignment focuses on 
+
+#### 🧠 Skills:
+Power BI, Python
+
+<br>
+
+### 2. Predictive Modelling and Model Evaluation of Child Mortality Risk Among Teen Mothers in Western Kenyan
 [View Full Report (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Predictive%20Modelling%20and%20Model%20Evaluation%20of%20Child%20Mortality%20Risk%20Among%20Teen%20Mothers%20in%20Western%20Kenya.pdf)
 #### 🎓 Course:
 Social and Web Analytics
@@ -36,7 +47,7 @@ Python - Data cleaning, Logistic Regression Model, Cross-validation techniques, 
 
 <br>
 
-### 2. Database Design for Online Lodging Marketplace
+### 3. Database Design for Online Lodging Marketplace
 [View Full Report (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/SEG1201%20Template%20-%20Final%20Assessment.pdf)
 #### 🎓 Course: 
 Database Fundamentals
@@ -49,7 +60,7 @@ ERD Diagram, SQL
 
 <br>
 
-### 3.  Proposed Smart Waitlist System for iZone
+### 4. Proposed Smart Waitlist System for iZone
 
 [View Full Report (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Sunway's%20Smart%20iZone%20Waitlist%20System.pdf)
 
@@ -64,7 +75,7 @@ Usecase diagram, Basic Class diagram, Figma prototype (UI/UX design)
 
 <br>
 
-### 4. Sleep Health and Lifestyle Analysis
+### 5. Sleep Health and Lifestyle Analysis
 
 [View Full Report (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Sleep%20Health%20and%20Lifestyle%20Dataset%20Analysis.pdf)
 
