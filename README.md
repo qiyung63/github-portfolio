@@ -9,9 +9,12 @@ Welcome to my portfolio! Here you'll find details about my **coursework/projects
 ### 💬 About Me
 I am a motivated Data Analytics graduate with skills in SQL, Microsoft Excel, Power BI, and Python. I enjoy analysing data, identifying meaningful insights and using data to support better decision-making. I am eager to apply my skills in a professional environment and continue developing as a data analyst.
 
+<br>
+
 ### 📄 My Resume 
 [View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Resume%20-%20Siow%20Qi%20Yung.pdf)
 
+<br>
 
 ### 📞 Contact
 - **Phone Number/WhatsApp:** +60 11-2611 6763
