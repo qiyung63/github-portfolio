@@ -120,6 +120,13 @@ Our team’s Smart Waitlist System for iZone was commended for effectively addre
 #### Certificate:
 [View](https://github.com/qiyung63/github-portfolio/blob/main/Certificate-Data%20Analytics%20Job%20Simulation.pdf)
 
+### 3. Excel: Managing and Analyzing Data
 
+#### 📝 Description:
+- Learned how to clean, organize and analyze large datasets using Microsoft Excel.
+- Gained practical experience with Power Query, XLOOKUP, PivotTables, dynamic arrays, data filtering and visualization.
+- Learned skills in checking data quality, combining datasets, and turning raw data into useful insights for reporting and decision-making.
 
+#### Certificate:
+[View]()
 
