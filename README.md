@@ -12,7 +12,7 @@ I am a motivated Data Analytics graduate with skills in SQL, Microsoft Excel, Po
 <br>
 
 ### 📄 My Resume 
-[View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Resume%20-%20Siow%20Qi%20Yung.pdf)
+[View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Resume.pdf)
 
 <br>
 
