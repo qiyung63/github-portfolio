@@ -7,14 +7,14 @@ Welcome to my portfolio! Here you'll find details about my **coursework/projects
 <br>
 
 ### 💬 About Me
-Motivated university student seeking a data analytics internship. Aiming to gain practical experience by applying academic knowledge to real-world applications and open to learn new tools while contributing positively to the organization.
+I am a motivated Data Analytics graduate with skills in SQL, Microsoft Excel, Power BI, and Python. I enjoy analysing data, identifying meaningful insights and using data to support better decision-making. I am eager to apply my skills in a professional environment and continue developing as a data analyst.
 
 ### 📄 My Resume 
 [View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Resume%20-%20Siow%20Qi%20Yung.pdf)
 
 
 ### 📞 Contact
-- **Phone Number:** +60 11-2611 6763
+- **Phone Number/WhatsApp:** +60 11-2611 6763
 - **Email:** sqiyung63@gmail.com
 - **LinkedIn:** [linkedin.com/in/sqy63](https://linkedin.com/in/sqy63)
 
