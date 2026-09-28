@@ -32,8 +32,7 @@ Social and Web Analytics
 This project focuses on predicting child mortality among teenage mothers. Our team aimed to identify the most effective predictive model using various machine learning techniques. By exploring key socioeconomic and health-related factors, this study provides insights that can help policymakers and healthcare providers design better interventions for high-risk groups such as teen mothers.
 
 #### 🧠 Skills:
-Python - Data cleaning, Logistic Regression Model, Cross-validation techniques, Model Evaluation (Precision, Recall, F1-score)
-Research Skills
+Python - Data cleaning, Logistic Regression Model, Cross-validation techniques, Model Evaluation (Precision, Recall, F1-score), Research Skills
 
 <br>
 
