@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Siow Qi Yung
 
-**Bachelor of Information Systems (Hons) Data Analytics Graduate**
+**Bachelor of Information Systems (Hons) Data Analytics**
 
 Welcome to my portfolio! Here you'll find details about my **projects/assignments**, and **achievements**.
 
