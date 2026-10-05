@@ -25,12 +25,13 @@ I am a motivated Data Analytics graduate with skills in SQL, Microsoft Excel, Po
 <br>
 
 ## 📊 Projects/Assignments
-### 1. 
-#### 🎓 Course:
+### 1. Descriptive and Predictive Analytics Using Brazilian Olist E-Commerce Dataset
+[View Full Report (PDF)]
+#### 🎓 Course: 
 Advanced Business Analytics
 
 #### 📝 Description:
-This assignment focuses on 
+This assignment focuses on analysing e-commerce data using Power BI and machine learning to identify business insights and predict late deliveries. The project involved data cleaning, merging, transformation and feature engineering, followed by Power BI visualisation to analyse delivery performance, shipping costs, geographical trends and product categories.
 
 #### 🧠 Skills:
 Power BI, Python
