@@ -26,7 +26,7 @@ I am a motivated Data Analytics graduate with skills in SQL, Microsoft Excel, Po
 
 ## 📊 Projects/Assignments
 ### 1. Descriptive and Predictive Analytics Using Brazilian Olist E-Commerce Dataset
-[View Full Report (PDF)]
+[View Full Report (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/(Advanced%20Business%20Analytics)%20Group%209%20-%20Assignment%203%20Report.pdf)
 #### 🎓 Course: 
 Advanced Business Analytics
 
