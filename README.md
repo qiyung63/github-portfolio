@@ -116,7 +116,7 @@ Our team’s Smart Waitlist System for iZone was commended for effectively addre
 Recognised with the Dean’s List Award for 4 semesters for outstanding academic performance, dedication, and consistent academic excellence.
 
 #### Certificate:
-[View (PDF)]
+[View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Dean's%20List.pdf)
 
 ### 3. Deloitte Australia Data Analytics Job Simulation on Forage
 
