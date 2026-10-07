@@ -1,4 +1,3 @@
-<a href="/">qiyung63</a>
 ## 👋 Hi, I'm Siow Qi Yung
 
 **Bachelor of Information Systems (Hons) Data Analytics**
