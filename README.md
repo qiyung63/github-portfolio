@@ -102,7 +102,7 @@ Descriptive Analysis, Hypothesis Testing, Multiple Linear Regression
 #### 🎓 Course related:
 Information Systems Analysis & Design
 
-#### 📝 Description
+#### 📝 Description:
 Our team’s Smart Waitlist System for iZone was commended for effectively addressing student registration challenges through an automated and user-friendly solution.
 
 #### Certificate:
@@ -110,7 +110,15 @@ Our team’s Smart Waitlist System for iZone was commended for effectively addre
 
 <br>
 
-### 2. Deloitte Australia Data Analytics Job Simulation on Forage
+### 2. Dean's List Award
+
+#### 📝 Description:
+Recognised with the Dean’s List Award for 4 semesters for outstanding academic performance, dedication, and consistent academic excellence.
+
+#### Certificate:
+[View (PDF)]
+
+### 3. Deloitte Australia Data Analytics Job Simulation on Forage
 
 #### 📝 Description:
 - Completed a Deloitte job simulation involving data analysis and forensic technology 
@@ -123,7 +131,7 @@ Our team’s Smart Waitlist System for iZone was commended for effectively addre
 
 <br>
 
-### 3. Excel: Managing and Analyzing Data
+### 4. Excel: Managing and Analyzing Data
 
 #### 📝 Description:
 - Learned how to clean, organize and analyze large datasets using Microsoft Excel.
