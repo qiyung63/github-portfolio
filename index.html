@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Siow Qi Yung | Data Analytics Portfolio</title>
 
     <style>
@@ -11,6 +12,7 @@
             margin: 0;
             background-color: #f5f7fa;
             color: #333;
+            line-height: 1.6;
         }
 
         header {
@@ -21,17 +23,37 @@
         }
 
         header h1 {
-            margin: 0;
-            font-size: 40px;
+            font-size: 42px;
+            margin-bottom: 10px;
         }
 
         header p {
-            font-size: 18px;
-            margin-top: 10px;
+            font-size: 19px;
+            margin: 5px;
+        }
+
+        nav {
+            background-color: white;
+            text-align: center;
+            padding: 15px;
+            position: sticky;
+            top: 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #1f2937;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            color: #2563eb;
         }
 
         section {
-            max-width: 900px;
+            max-width: 950px;
             margin: 40px auto;
             padding: 0 20px;
         }
@@ -39,14 +61,37 @@
         h2 {
             color: #1f2937;
             border-bottom: 2px solid #ddd;
-            padding-bottom: 10px;
+            padding-bottom: 8px;
         }
 
-        .project {
+        h3 {
+            color: #1f2937;
+        }
+
+        .card {
             background: white;
-            padding: 20px;
-            margin: 20px 0;
+            padding: 25px;
+            margin: 25px 0;
             border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        .skills {
+            font-weight: bold;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 8px 15px;
+            background-color: #2563eb;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 5px;
+        }
+
+        .button:hover {
+            background-color: #1d4ed8;
         }
 
         footer {
@@ -54,24 +99,44 @@
             padding: 30px;
             background-color: #1f2937;
             color: white;
+            margin-top: 50px;
         }
     </style>
 </head>
 
 <body>
 
-    <header>
-        <h1>Hi, I'm Siow Qi Yung 👋</h1>
-        <p>Data Analytics Graduate | Data Analyst</p>
-    </header>
+<!-- ==================== HOME ==================== -->
 
-    <section>
-        <h2>About Me</h2>
+<header id="home">
+    <h1>Hi, I'm Siow Qi Yung 👋</h1>
+    <p>Bachelor of Information Systems (Hons) Data Analytics</p>
+</header>
+
+
+<!-- ==================== NAVIGATION ==================== -->
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#about">About Me</a>
+    <a href="#projects">Projects</a>
+    <a href="#achievements">Achievements</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+
+<!-- ==================== ABOUT ME ==================== -->
+
+<section id="about">
+
+    <h2>💬 About Me</h2>
+
+    <div class="card">
 
         <p>
-            I am a motivated Data Analytics graduate with skills in SQL,
-            Microsoft Excel, Power BI, and Python. I enjoy analysing data,
-            identifying meaningful insights, and using data to support
+            I am a motivated Data Analytics graduate with skills in
+            SQL, Microsoft Excel, Power BI, and Python. I enjoy analysing
+            data, identifying meaningful insights and using data to support
             better decision-making.
         </p>
 
@@ -79,63 +144,333 @@
             I am eager to apply my skills in a professional environment
             and continue developing as a data analyst.
         </p>
-    </section>
 
-    <section>
-        <h2>Projects</h2>
+        <a class="button"
+           href="https://github.com/qiyung63/github-portfolio/blob/main/Resume.pdf"
+           target="_blank">
+           📄 View My Resume
+        </a>
 
-        <div class="project">
-            <h3>Olist E-Commerce Data Analysis</h3>
+    </div>
 
-            <p>
-                Analysed the Brazilian E-Commerce Public Dataset by Olist
-                using Power BI and machine learning to identify business
-                insights and predict late deliveries.
-            </p>
-        </div>
+</section>
 
-        <div class="project">
-            <h3>Data Analytics Projects</h3>
 
-            <p>
-                Explore my academic projects involving data analysis,
-                visualisation, machine learning, and big data analytics.
-            </p>
-        </div>
-    </section>
+<!-- ==================== PROJECTS ==================== -->
 
-    <section>
-        <h2>Skills</h2>
+<section id="projects">
+
+    <h2>📊 Projects / Assignments</h2>
+
+
+    <!-- PROJECT 1 -->
+
+    <div class="card">
+
+        <h3>
+            1. Descriptive and Predictive Analytics Using Brazilian Olist E-Commerce Dataset
+        </h3>
+
+        <p><strong>🎓 Course:</strong> Advanced Business Analytics</p>
 
         <p>
-            <strong>Data Analysis:</strong> SQL, Microsoft Excel, Python
+            <strong>📝 Description:</strong>
+            This assignment focuses on analysing e-commerce data using
+            Power BI and machine learning to identify business insights
+            and predict late deliveries. The project involved data cleaning,
+            merging, transformation and feature engineering, followed by
+            Power BI visualisation to analyse delivery performance,
+            shipping costs, geographical trends and product categories.
+        </p>
+
+        <p class="skills">
+            🧠 Skills: Power BI, Python
+        </p>
+
+        <a class="button" href="https://github.com/qiyung63/qiyung63.github.io/blob/main/(Advanced%20Business%20Analytics)%20Group%209%20-%20Assignment%203%20Report.pdf" target="_blank">
+            View Full Report (PDF)
+        </a>
+
+    </div>
+
+
+    <!-- PROJECT 2 -->
+
+    <div class="card">
+
+        <h3>
+            2. Predictive Modelling and Model Evaluation of Child Mortality Risk Among Teen Mothers in Western Kenya
+        </h3>
+
+        <p><strong>🎓 Course:</strong> Social and Web Analytics</p>
+
+        <p>
+            <strong>📝 Description:</strong>
+            This project focuses on predicting child mortality among
+            teenage mothers. Our team aimed to identify the most effective
+            predictive model using various machine learning techniques.
+            By exploring key socioeconomic and health-related factors,
+            this study provides insights that can help policymakers and
+            healthcare providers design better interventions for
+            high-risk groups such as teen mothers.
+        </p>
+
+        <p class="skills">
+            🧠 Skills: Python, Data Cleaning, Logistic Regression,
+            Cross-validation, Model Evaluation, Research Skills
+        </p>
+
+        <a class="button" href="https://github.com/qiyung63/qiyung63.github.io/blob/main/Predictive%20Modelling%20and%20Model%20Evaluation%20of%20Child%20Mortality%20Risk%20Among%20Teen%20Mothers%20in%20Western%20Kenya.pdf" target="_blank">
+            View Full Report (PDF)
+        </a>
+
+    </div>
+
+
+    <!-- PROJECT 3 -->
+
+    <div class="card">
+
+        <h3>
+            3. Database Design for Online Lodging Marketplace
+        </h3>
+
+        <p><strong>🎓 Course:</strong> Database Fundamentals</p>
+
+        <p>
+            <strong>📝 Description:</strong>
+            This project focused on designing a database for an online
+            lodging marketplace. The database was developed to efficiently
+            manage user registration, properties, bookings, payments,
+            facilities and reviews. It included an Entity Relationship
+            Diagram (ERD), relational database model, keys, constraints,
+            indexes, SQL implementation and business queries.
+        </p>
+
+        <p class="skills">
+            🧠 Skills: ERD Diagram, SQL
+        </p>
+
+        <a class="button" href="https://github.com/qiyung63/qiyung63.github.io/blob/main/SEG1201%20Template%20-%20Final%20Assessment.pdf" target="_blank">
+            View Full Report (PDF)
+        </a>
+
+    </div>
+
+
+    <!-- PROJECT 4 -->
+
+    <div class="card">
+
+        <h3>
+            4. Proposed Smart Waitlist System for iZone
+        </h3>
+
+        <p><strong>🎓 Course:</strong> Information Systems Analysis & Design</p>
+
+        <p>
+            <strong>📝 Description:</strong>
+            After conducting a survey to understand students’ challenges
+            during subject registration, our team proposed a Smart Waitlist
+            System for iZone, Sunway University's enrolment platform.
+            The system automatically manages waitlisted subjects by
+            tracking seat availability in real time and notifying students
+            when a slot becomes available.
+        </p>
+
+        <p class="skills">
+            🧠 Skills: Use Case Diagram, Basic Class Diagram, Figma Prototype,
+            UI/UX Design
+        </p>
+
+        <a class="button" href="https://github.com/qiyung63/qiyung63.github.io/blob/main/Sunway's%20Smart%20iZone%20Waitlist%20System.pdf" target="_blank">
+            View Full Report (PDF)
+        </a>
+
+    </div>
+
+
+    <!-- PROJECT 5 -->
+
+    <div class="card">
+
+        <h3>
+            5. Sleep Health and Lifestyle Analysis
+        </h3>
+
+        <p><strong>🎓 Course:</strong> Statistics for Data Analytics</p>
+
+        <p>
+            <strong>📝 Description:</strong>
+            This project investigates how lifestyle and health factors
+            relate to sleep patterns. It evaluates average sleep duration,
+            gender differences in sleep quality, the effect of BMI on sleep
+            duration, and uses predictive modelling to identify key
+            determinants of sleep duration.
+        </p>
+
+        <p class="skills">
+            🧠 Skills: Descriptive Analysis, Hypothesis Testing,
+            Multiple Linear Regression
+        </p>
+
+        <a class="button" href="https://github.com/qiyung63/qiyung63.github.io/blob/main/Sleep%20Health%20and%20Lifestyle%20Dataset%20Analysis.pdf" target="_blank">
+            View Full Report (PDF)
+        </a>
+
+    </div>
+
+</section>
+
+
+<!-- ==================== ACHIEVEMENTS ==================== -->
+
+<section id="achievements">
+
+    <h2>🎖️ Achievements</h2>
+
+
+    <!-- ACHIEVEMENT 1 -->
+
+    <div class="card">
+
+        <h3>
+            1. First Runner-Up in BIS2102 Project Pitching Competition 2025
+        </h3>
+
+        <p>
+            <strong>🎓 Course Related:</strong>
+            Information Systems Analysis & Design
         </p>
 
         <p>
-            <strong>Visualisation:</strong> Power BI
+            <strong>📝 Description:</strong>
+            Our team's Smart Waitlist System for iZone was commended
+            for effectively addressing student registration challenges
+            through an automated and user-friendly solution.
+        </p>
+
+        <a class="button" href="https://github.com/qiyung63/qiyung63.github.io/blob/main/Certificate_BIS2102.pdf" target="_blank">
+            View Certificate (PDF)
+        </a>
+
+    </div>
+
+
+    <!-- ACHIEVEMENT 2 -->
+
+    <div class="card">
+
+        <h3>2. Dean's List Award</h3>
+
+        <p>
+            <strong>📝 Description:</strong>
+            Recognised with the Dean's List Award for 4 semesters for
+            outstanding academic performance, dedication, and consistent
+            academic excellence.
+        </p>
+
+        <a class="button" href="https://github.com/qiyung63/qiyung63.github.io/blob/main/Dean's%20List.pdf" target="_blank">
+            View Certificate (PDF)
+        </a>
+
+    </div>
+
+
+    <!-- ACHIEVEMENT 3 -->
+
+    <div class="card">
+
+        <h3>
+            3. Deloitte Australia Data Analytics Job Simulation on Forage
+        </h3>
+
+        <p>
+            <strong>📝 Description:</strong>
+        </p>
+
+        <ul>
+            <li>Completed a Deloitte job simulation involving data analysis and forensic technology.</li>
+            <li>Created a data dashboard using Tableau.</li>
+            <li>Used Excel to classify data and draw business conclusions.</li>
+            <li>Improved my skills in data visualisation, analytical thinking and practical use of Excel and Tableau.</li>
+        </ul>
+
+        <a class="button" href="https://github.com/qiyung63/qiyung63.github.io/blob/main/Certificate-Data%20Analytics%20Job%20Simulation.pdf" target="_blank">
+            View Certificate (PDF)
+        </a>
+
+    </div>
+
+
+    <!-- ACHIEVEMENT 4 -->
+
+    <div class="card">
+
+        <h3>4. Excel: Managing and Analyzing Data</h3>
+
+        <p>
+            <strong>📝 Description:</strong>
+        </p>
+
+        <ul>
+            <li>Learned how to clean, organize and analyse large datasets using Microsoft Excel.</li>
+            <li>Gained practical experience with Power Query, XLOOKUP, PivotTables, dynamic arrays, data filtering and visualization.</li>
+            <li>Learned how to check data quality, combine datasets and turn raw data into useful insights.</li>
+        </ul>
+
+        <a class="button" href="https://github.com/qiyung63/qiyung63.github.io/blob/main/Certificate_Excel%20Managing%20and%20Analyzing%20Data.pdf" target="_blank">
+            View Certificate (PDF)
+        </a>
+
+    </div>
+
+</section>
+
+
+<!-- ==================== CONTACT ==================== -->
+
+<section id="contact">
+
+    <h2>📞 Contact</h2>
+
+    <div class="card">
+
+        <p>
+            <strong>Phone / WhatsApp:</strong> +60 11-2611 6763
         </p>
 
         <p>
-            <strong>Other:</strong> Data Cleaning, Data Visualisation,
-            Machine Learning
-        </p>
-    </section>
-
-    <section>
-        <h2>Contact</h2>
-
-        <p>
-            I am currently looking for a full-time Data Analyst opportunity.
+            <strong>Email:</strong>
+            <a href="mailto:sqiyung63@gmail.com">
+                sqiyung63@gmail.com
+            </a>
         </p>
 
         <p>
-            LinkedIn | GitHub | Email
+            <strong>LinkedIn:</strong>
+            <a href="https://linkedin.com/in/sqy63" target="_blank">
+                View my LinkedIn
+            </a>
         </p>
-    </section>
 
-    <footer>
-        © 2026 Siow Qi Yung
-    </footer>
+        <p>
+            <strong>GitHub:</strong>
+            <a href="https://github.com/qiyung63" target="_blank">
+                github.com/qiyung63
+            </a>
+        </p>
+
+    </div>
+
+</section>
+
+
+<!-- ==================== FOOTER ==================== -->
+
+<footer>
+    <p>© 2026 Siow Qi Yung | Data Analytics Portfolio</p>
+</footer>
 
 </body>
 </html>
