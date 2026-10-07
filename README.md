@@ -118,6 +118,8 @@ Recognised with the Dean’s List Award for 4 semesters for outstanding academic
 #### Certificate:
 [View (PDF)](https://github.com/qiyung63/github-portfolio/blob/main/Dean's%20List.pdf)
 
+<br>
+
 ### 3. Deloitte Australia Data Analytics Job Simulation on Forage
 
 #### 📝 Description:
